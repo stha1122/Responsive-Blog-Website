@@ -1,8 +1,6 @@
 # Responsive-Blog-App-Website<br/>
-Responsive Blog site project is developed using MYSQL, PHP, HTML, CSS.  <br/>
-Talking about the project, it has lots of features. User can sign up and then sign in. User can add, edit, delete 
-and view his own blogs. A user can post blogs under the different category, can search the post. Admin can 
-add another new admin. Admin can add, edit, delete and view categories, users.  This project is a complete blogging site for the users where posts are divided based on different categories. It 
+Responsive Blog site project is developed using MYSQL, PHP, HTML, CSS, JS.  <br/>
+Talking about the project, it has lots of features. Users can sign up and then sign in. User can add, edit, delete, and view their own blogs. A user can post blogs under different categories and search the post. Admin can add another new admin. Admin can add, edit and delete categories,users.  This project is a complete blogging site for users where posts are divided based on different categories. It 
 contains a homepage from where users can check the latest blogs.  
 ## Featured Post
 ![featured post](https://github.com/stha1122/Responsive-Blog-App-Website/assets/122188963/1030d324-86c7-4c8a-bbec-1fcedb70d32e)
